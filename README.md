@@ -64,3 +64,7 @@ How to run:-
 To Start the application -> Run it as spring boot project in eclipse -> Look for "Controller" package -> Go through both Doctor and Patient controller classes -> use endpoints from these classes (Do check your Tomcat PORT)
 
 Check the "application.properties" file, do configure the database connection like PORT, username, password, etc.
+
+Use attached healthcare_system.sql to implement sql schema.
+
+Use attached Healthcare_System.postman_collection.json to execute tests.
